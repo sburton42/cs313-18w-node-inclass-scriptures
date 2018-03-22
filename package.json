@@ -1,0 +1,15 @@
+{
+  "name": "cs313-18w-node-inclass-scriptures",
+  "version": "1.0.0",
+  "description": "In class activity to get a list of scriptures",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sburton",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pg": "^7.4.1"
+  }
+}
